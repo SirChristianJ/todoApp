@@ -13,5 +13,6 @@ As well as view incomplete tasks and edit them
 
 And of course the ability to add a new task!
 ![Screenshot](gitProject5.PNG)
-
+![Screenshot](gitProject6.PNG)
 And it works
+![Screenshot](gitProject7.PNG)
